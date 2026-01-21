@@ -1,2 +1,2 @@
-# nfl_data_science
+# fantasy_football_data_science
 Data Science project for NFL Fantasy Football
